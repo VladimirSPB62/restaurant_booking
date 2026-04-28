@@ -1,6 +1,7 @@
-Django==5.2
+Django==6.0.4
 djangorestframework
 markdown
 django-filter
 djangorestframework-simplejwt
 drf-spectacular
+Pillow==9.5.0
